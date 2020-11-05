@@ -57,7 +57,7 @@
 	margin-top: 185px;
 	text-transform: uppercase;
 	text-align: center;
-	color: white;
+	color: rgb(204, 42, 177);
 }
 .text h4{
 	font-size: 14px;
@@ -66,7 +66,7 @@
 .text h1{
 	font-size: 100px;
 	font-family: 'Fjalla One', sans-serif;
-	font-weight: 700px;
+	font-weight: 800px;
 	margin: 14px 0px;
 }
 .text h3{
